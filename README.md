@@ -1,5 +1,5 @@
-# PhotoView
-PhotoView aims to help produce an easily usable implementation of a zooming Android ImageView.
+# PinPhotoView
+PinPhotoView is an implementation of PhotoView where Views can be added and pinned to certain sections on an Image.
 
 [![](https://jitpack.io/v/chrisbanes/PhotoView.svg)](https://jitpack.io/#chrisbanes/PhotoView)
 
