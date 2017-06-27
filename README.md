@@ -1,5 +1,5 @@
 # PinPhotoView
-PinPhotoView is an implementation of PhotoView where Views can be added and pinned to certain sections on an Image.
+PinPhotoView is an implementation of PhotoView where Views can be added and pinned to certain sections on an image. PinPhotoView still supports zoom, fling gestures.
 
 [![](https://jitpack.io/v/chrisbanes/PhotoView.svg)](https://jitpack.io/#chrisbanes/PhotoView)
 
